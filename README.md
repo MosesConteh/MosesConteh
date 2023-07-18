@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MosesConteh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on javascript
+- 💞️ I’m looking to collaborate on friendship
 - 📫 How to reach me asap +23234903494/@contehmosesbrima
 
 <!---
